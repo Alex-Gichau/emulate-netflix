@@ -1,0 +1,159 @@
+.div-top-bar {
+    background-color:rgba(17, 17, 19, 0.932);
+    height:90px;
+    width:100%;
+    
+}
+
+ ul.nav-bar-controls li{
+    list-style-type:none;
+    text-align:right;
+    padding:5px;
+    border:3px solid none;
+    border-radius:8px;
+       
+
+}
+ul.nav-bar-controls li, .search-bar {
+    float:right;
+    font-family:monospace;
+    font-size:15px;
+    text-align:center;
+    overflow:hidden;
+    margin-left:3px;
+    margin-right:10px;
+    margin-top:30px;
+
+}
+body {
+    
+}
+
+ul.nav-bar-controls li a {
+    text-decoration:none;
+    color:rgb(255, 255, 255);
+}
+ul.nav-bar-controls li a:hover {
+    background-color:#aa0000;
+    transition:0.3s;
+    padding:8px;
+    
+}
+.header-latest-movies {
+    margin-top:60px;
+    
+}
+.div-latest-movies {
+    margin:15px;
+    background-color:rgba(151, 147, 147, 0.438);
+    height:240px;
+    width:95%;
+    padding:5px;
+    border-bottom:2px ridge #0000004a;
+    border-radius:10px;
+    
+}
+
+.img-movie-poster {
+    margin:2px;
+    width:310px;
+    height:210px;
+    border:3px solid none;
+    border-radius:15px;
+    float:left;
+}
+
+.img-movie-poster:hover {
+    width:320px;
+    height:220px;
+    transition:0.3s;
+    border-bottom:3px solid #aa0000;
+    opacity:70%;
+}
+
+
+.title-payment {
+    text-align:center;
+}
+
+.text-payment-option {
+    text-align:center;
+    text-indent:none;
+    font-size:17px;
+}
+
+.span-footer-info {
+    background-color:rgba(17, 17, 19, 0.932);
+    float:right;
+    text-align:left;
+    color:white;
+    margin:0px;
+    
+}
+
+.Yearly-package, .Monthly-package {
+    float:left;
+    margin:10px;
+    padding:5px;
+    border-left:3px solid rgba(151, 147, 147, 0.438);
+    width:45%;
+    height:180px;
+        
+}
+
+/* Login page CSS*/
+body {
+    fill-opacity:50%;
+
+}
+
+.fill-form {
+    padding:8px;
+    margin-left:27%;
+    margin-top:10%;
+    direction:ltr;
+    text-align:center;
+    width:500px;
+    height:220px;
+    color:#ffffff;
+    background-color:#aa00009c;
+    border:0px solid none;
+    border-radius:10px;
+
+}
+
+/* Main Home page styles */
+.div-latest-movies-main {
+    margin:0px;
+    padding:0px;
+    background-color:rgba(151, 147, 147, 0.438);
+    height:500px;
+    width:100%;
+    padding:5px;
+    border-bottom:2px ridge #0000004a;
+    border-radius:10px;
+
+}
+.img-movie-poster-main {
+    margin:2px;
+    padding:4px;
+    width:310px;
+    height:210px;
+    border:3px solid none;
+    border-radius:15px;
+    float:left;
+}
+
+/* Sign-in form CSS */
+.div-sign-in-fill-form {
+    padding:18px;
+    text-align:center;
+    background-color:#aa0000c7;
+    margin-left:30%;
+    margin-top:10%;
+    width:500px;
+    height:300px;
+    border:0px solid none;
+    border-radius:10px;
+    color:white;
+}
