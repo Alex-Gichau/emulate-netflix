@@ -1,7 +1,7 @@
 #emulating-netflix-website
 
-Following through with:
+Home-made netflix clone HTML, CSS, Js, Bootstrap: 
 https://youtu.be/UErm8KX362k
 
-HTML, CSS & jQUERY follow:
+Personal Portfolio Website | HTML, CSS, jQuery: 
 https://youtu.be/q80hZpBn8Kg
